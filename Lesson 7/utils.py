@@ -216,7 +216,8 @@ short_word_dict = {
 
 
 emoticon_dict = {
-".👍":"happy",
+"👍": "happy",
+"👍": "happy",
 "😊":"happy",    
 "👏":"happy",
 "N1":"happy",
